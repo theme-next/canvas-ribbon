@@ -36,7 +36,7 @@ canvas_ribbon:
 ```yml
 vendors:
   ...
-  canvas_ribbon: //cdn.jsdelivr.net/gh/theme-next/theme-next-canvas-ribbon@1/canvas-ribbon.js
+  canvas_ribbon: //cdn.jsdelivr.net/gh/theme-next/theme-next-canvas-ribbon/canvas-ribbon.min.js
 ```
 
 <h1 align="center">Update</h1>
